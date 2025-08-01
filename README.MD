@@ -13,7 +13,7 @@ Para levantar el servicio, solo necesitas tener Docker y Docker Compose instalad
 1.  **Clona el repositorio:**
 
     ```bash
-    git clone [https://github.com/ualia946/docker-honeypot.git](https://github.com/ualia946/docker-honeypot.git)
+    git clone https://github.com/ualia946/docker-honeypot.git
     cd docker-honeypot
     ```
 
