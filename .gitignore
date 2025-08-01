@@ -1,0 +1,12 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp

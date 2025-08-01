@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  honeypot:
+    build: ./nginx
+    image: mi-honeypot-compose
+    container_name: honeypot-web
+    ports:
+      - "8888:80"
+    restart: unless-stopped
